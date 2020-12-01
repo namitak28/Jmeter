@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmeterTestPlan version="1.2" properties="4.0" jmeter="4.0 r1823414">
+  <hashTree>
+    <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="Test Plan" enabled="true">
+      <stringProp name="TestPlan.comments"></stringProp>
+      <boolProp name="TestPlan.functional_mode">false</boolProp>
+      <boolProp name="TestPlan.tearDown_on_shutdown">true</boolProp>
+      <boolProp name="TestPlan.serialize_threadgroups">false</boolProp>
+      <elementProp name="TestPlan.user_defined_variables" elementType="Arguments" guiclass="ArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+        <collectionProp name="Arguments.arguments"/>
+      </elementProp>
+      <stringProp name="TestPlan.user_define_classpath"></stringProp>
+    </TestPlan>
+    <hashTree>
+      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group" enabled="true">
+        <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
+        <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller" enabled="true">
+          <boolProp name="LoopController.continue_forever">false</boolProp>
+          <stringProp name="LoopController.loops">1</stringProp>
+        </elementProp>
+        <stringProp name="ThreadGroup.num_threads">1</stringProp>
+        <stringProp name="ThreadGroup.ramp_time">1</stringProp>
+        <boolProp name="ThreadGroup.scheduler">false</boolProp>
+        <stringProp name="ThreadGroup.duration"></stringProp>
+        <stringProp name="ThreadGroup.delay"></stringProp>
+      </ThreadGroup>
+      <hashTree>
+        <JSR223PreProcessor guiclass="TestBeanGUI" testclass="JSR223PreProcessor" testname="JSR223 PreProcessor" enabled="false">
+          <stringProp name="cacheKey">true</stringProp>
+          <stringProp name="filename"></stringProp>
+          <stringProp name="parameters"></stringProp>
+          <stringProp name="script">import javax.crypto.spec.SecretKeySpec;
+import javax.xml.bind.DatatypeConverter;
+import java.security.Key;
+import io.jsonwebtoken.*;
+import java.util.Date;    
+ 
+//Sample method to construct a JWT
+private String createJWT(String id, String issuer, String subject, long ttlMillis) {
+ 
+    //The JWT signature algorithm we will be using to sign the token
+    SignatureAlgorithm signatureAlgorithm = SignatureAlgorithm.HS256;
+ 
+    long nowMillis = System.currentTimeMillis();
+    Date now = new Date(nowMillis);
+ 
+    //We will sign our JWT with our ApiKey secret
+    byte[] apiKeySecretBytes = DatatypeConverter.parseBase64Binary(apiKey.getSecret());
+    Key signingKey = new SecretKeySpec(apiKeySecretBytes, signatureAlgorithm.getJcaName());
+ 
+    //Let&apos;s set the JWT Claims
+    JwtBuilder builder = Jwts.builder().setId(id)
+                                .setIssuedAt(now)
+                                .setSubject(subject)
+                                .setIssuer(issuer)
+                                .signWith(signatureAlgorithm, signingKey);
+ 
+    //if it has been specified, let&apos;s add the expiration
+    if (ttlMillis &gt;= 0) {
+    long expMillis = nowMillis + ttlMillis;
+        Date exp = new Date(expMillis);
+        builder.setExpiration(exp);
+    }
+ 
+    //Builds the JWT and serializes it to a compact, URL-safe string
+    return builder.compact();
+log.warn(&quot;Test&quot;+builder.compact());
+    
+}</stringProp>
+          <stringProp name="scriptLanguage">java</stringProp>
+        </JSR223PreProcessor>
+        <hashTree/>
+        <JSR223Sampler guiclass="TestBeanGUI" testclass="JSR223Sampler" testname="JSR223 Sampler" enabled="true">
+          <stringProp name="cacheKey">true</stringProp>
+          <stringProp name="filename"></stringProp>
+          <stringProp name="parameters"></stringProp>
+          <stringProp name="script">
+import javax.crypto.spec.SecretKeySpec;
+import javax.xml.bind.DatatypeConverter;
+import java.security.Key;
+import java.time.temporal.ChronoUnit;
+import io.jsonwebtoken.*;
+import java.util.Date;
+import io.jsonwebtoken.Jwts;
+import io.jsonwebtoken.Claims;
+import java.time.Instant;
+import io.jsonwebtoken.SignatureAlgorithm;
+import java.util.Base64;
+import io.jsonwebtoken.impl.crypto.MacProvider;
+
+
+//...
+
+// Key is hardcoded here for simplicity. 
+// Ideally this will get loaded from env configuration/secret vault
+//String secret = &quot;asdfSFS34wfsdfsdfSDSD32dfsddDDerQSNCK34SOWEK5354fdgdf4&quot;;
+ //byte[] hmacKey= new SecretKeySpec(Base64.getDecoder().decode(src:&quot;asdfSFS34wfsdfsdfSDSD32dfsddDDerQSNCK34SOWEK5354fdgdf4&quot;)); 
+                           // SignatureAlgorithm.HS256.getJcaName());
+                           //SignatureAlgorithm signatureAlgorithm = SignatureAlgorithm.HS256;
+                           String secret = &quot;ext_asd8f68asd6f8as7d68asdfasf6as8d7f&quot;;
+                      //byte[] apiKeySecretBytes = DatatypeConverter.parseBase64Binary(secret);
+//Key signingKey = new SecretKeySpec(apiKeySecretBytes, signatureAlgorithm.getJcaName());
+                       // Key hmacKey = new SecretKeySpec(Base64.getDecoder().decode(secret)); 
+                            //SignatureAlgorithm.HS256.getJcaName());
+
+Instant now = Instant.now();
+Header header = Jwts.header();
+    header.setType(&quot;JWT&quot;);
+String jwtToken =Jwts.builder()
+        .setHeader( header)
+        .claim(&quot;userCode&quot;, &quot;kaushis.halder@imerit.net&quot;)
+ 	   .claim(&quot;fname&quot;, &quot;Kaushis&quot;)
+	   .claim(&quot;lname&quot;,&quot;Halder&quot;)
+        .claim(&quot;department&quot;,&quot;Delivery&quot;)
+        .claim(&quot;designation&quot;,&quot;Lead - Delivery&quot;)
+        .claim(&quot;branch&quot;,&quot;Baruipur&quot;)
+        .claim(&quot;empCode&quot;, &quot;I0585&quot;)
+        .claim(&quot;engageCode&quot;, &quot;EC-vieAeIf69m&quot;)
+        .claim(&quot;jobCode&quot;,&quot;JC-5f6d86fe731f0d0001a44d12&quot;)
+         .claim(&quot;nodeId&quot;, &quot;c14&quot;)
+        .setId(UUID.randomUUID().toString())
+        .setIssuedAt(Date.from(now))
+        .setExpiration(Date.from(now.plus(10, ChronoUnit.MINUTES)))
+        .signWith(SignatureAlgorithm.HS256,secret.getBytes())
+        .compact();
+
+vars.put(&quot;Token&quot;,jwtToken);
+
+        
+        log.warn(&quot;jwtToken&quot;,&quot;${Token}&quot;);
+</stringProp>
+          <stringProp name="scriptLanguage">java</stringProp>
+        </JSR223Sampler>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="verify/token" enabled="true">
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
+            <collectionProp name="Arguments.arguments">
+              <elementProp name="verifyFor" elementType="HTTPArgument">
+                <boolProp name="HTTPArgument.always_encode">true</boolProp>
+                <stringProp name="Argument.name">verifyFor</stringProp>
+                <stringProp name="Argument.value">tool</stringProp>
+                <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
+              </elementProp>
+              <elementProp name="accessToken" elementType="HTTPArgument">
+                <boolProp name="HTTPArgument.always_encode">true</boolProp>
+                <stringProp name="Argument.name">accessToken</stringProp>
+                <stringProp name="Argument.value">${Token}</stringProp>
+                <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
+              </elementProp>
+            </collectionProp>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">api.projectv.staging.rnd.imerit.cloud</stringProp>
+          <stringProp name="HTTPSampler.port"></stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.contentEncoding"></stringProp>
+          <stringProp name="HTTPSampler.path">terraform/tv2api/verify/token</stringProp>
+          <stringProp name="HTTPSampler.method">POST</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <stringProp name="HTTPSampler.embedded_url_re"></stringProp>
+          <stringProp name="HTTPSampler.connect_timeout"></stringProp>
+          <stringProp name="HTTPSampler.response_timeout"></stringProp>
+        </HTTPSamplerProxy>
+        <hashTree>
+          <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header manager" enabled="true">
+            <collectionProp name="HeaderManager.headers">
+              <elementProp name="Accept" elementType="Header">
+                <stringProp name="Header.name">Accept</stringProp>
+                <stringProp name="Header.value">application/json, text/javascript, */*; q=0.01</stringProp>
+              </elementProp>
+              <elementProp name="Content-Type" elementType="Header">
+                <stringProp name="Header.name">Content-Type</stringProp>
+                <stringProp name="Header.value">application/x-www-form-urlencoded; charset=UTF-8</stringProp>
+              </elementProp>
+            </collectionProp>
+          </HeaderManager>
+          <hashTree/>
+          <JSONPostProcessor guiclass="JSONPostProcessorGui" testclass="JSONPostProcessor" testname="JSON Extractor" enabled="true">
+            <stringProp name="JSONPostProcessor.referenceNames">verifyToken</stringProp>
+            <stringProp name="JSONPostProcessor.jsonPathExprs">$.storageToken</stringProp>
+            <stringProp name="JSONPostProcessor.match_numbers">1</stringProp>
+            <stringProp name="JSONPostProcessor.defaultValues">Not Found</stringProp>
+          </JSONPostProcessor>
+          <hashTree/>
+        </hashTree>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Delegator" enabled="true">
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">api.projectv.staging.rnd.imerit.cloud</stringProp>
+          <stringProp name="HTTPSampler.port"></stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.contentEncoding"></stringProp>
+          <stringProp name="HTTPSampler.path">terraform/delegator/config</stringProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <stringProp name="HTTPSampler.embedded_url_re"></stringProp>
+          <stringProp name="HTTPSampler.connect_timeout"></stringProp>
+          <stringProp name="HTTPSampler.response_timeout"></stringProp>
+        </HTTPSamplerProxy>
+        <hashTree>
+          <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header manager" enabled="true">
+            <collectionProp name="HeaderManager.headers">
+              <elementProp name="Accept" elementType="Header">
+                <stringProp name="Header.name">Accept</stringProp>
+                <stringProp name="Header.value">application/json, text/javascript, */*; q=0.01</stringProp>
+              </elementProp>
+              <elementProp name="Authorization" elementType="Header">
+                <stringProp name="Header.name">Authorization</stringProp>
+                <stringProp name="Header.value">Bearer ${verifyToken}</stringProp>
+              </elementProp>
+            </collectionProp>
+          </HeaderManager>
+          <hashTree/>
+        </hashTree>
+      </hashTree>
+      <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
+        <boolProp name="ResultCollector.error_logging">false</boolProp>
+        <objProp>
+          <name>saveConfig</name>
+          <value class="SampleSaveConfiguration">
+            <time>true</time>
+            <latency>true</latency>
+            <timestamp>true</timestamp>
+            <success>true</success>
+            <label>true</label>
+            <code>true</code>
+            <message>true</message>
+            <threadName>true</threadName>
+            <dataType>true</dataType>
+            <encoding>false</encoding>
+            <assertions>true</assertions>
+            <subresults>true</subresults>
+            <responseData>false</responseData>
+            <samplerData>false</samplerData>
+            <xml>false</xml>
+            <fieldNames>true</fieldNames>
+            <responseHeaders>false</responseHeaders>
+            <requestHeaders>false</requestHeaders>
+            <responseDataOnError>false</responseDataOnError>
+            <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+            <assertionsResultsToSave>0</assertionsResultsToSave>
+            <bytes>true</bytes>
+            <sentBytes>true</sentBytes>
+            <threadCounts>true</threadCounts>
+            <idleTime>true</idleTime>
+            <connectTime>true</connectTime>
+          </value>
+        </objProp>
+        <stringProp name="filename"></stringProp>
+      </ResultCollector>
+      <hashTree/>
+    </hashTree>
+  </hashTree>
+</jmeterTestPlan>

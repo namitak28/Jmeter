@@ -1,0 +1,14 @@
+[{"id":"${keyValue}",${__FileToString(/home/namita/Documents/Annotation_files/${__eval(${FileName})}.txt,,)}
+"node_wise_batch_details_id":"${Task_id}","key":"2__${keyValue}","seq_no":"2"}]
+
+
+
+
+
+
+
+
+
+
+
+5f4a422fae0adc0001e67eec

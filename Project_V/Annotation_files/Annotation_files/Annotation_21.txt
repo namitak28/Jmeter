@@ -1,0 +1,1 @@
+"object_type":"canvaspolygon","taxonomy_attribute":{},"drawable_attribute":{},"coordinates":[],"deleted":true,"discarded":false,"children":[],"parent":"","note":"","identity":"","editable":true,"prediction_parent":"","prediction_children":"","annotation_type":"drawn",

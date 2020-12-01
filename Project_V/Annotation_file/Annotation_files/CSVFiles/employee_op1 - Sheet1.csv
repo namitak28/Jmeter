@@ -1,0 +1,505 @@
+empcode,fname,mname,lname,email,Delivery,branch,designation,engagementcode,flowcode,jobcode
+I0166,Anar,Hossain,Mistry,anar@imerit.net,Delivery,Baruipur,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1054,Namita,,Singh,namita.singh@imerit.net,Delivery,Baruipur,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I3334,swagata,,Chaudhury,swagata.c@imerit.net,Technology,Bhubaneshwar,Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0162,Pranomita,,Mondal,pranomita@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0159,Arup,Kumar,Mandal,arup@imerit.net,Delivery,Metiabruz,Senior Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0156,Raghumani,,Das,raghumoni@imerit.net,Delivery,Saltlake,Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0155,Subhasish,,Halder,subhasish@imerit.net,Delivery,Baruipur,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0216,Subrata,,Mali,subrata.mali@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0205,Tapas,Kumar,Karmakar,tapas.karmakar@imerit.net,Delivery,Saltlake,Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0206,Ambarish,,Ghosh,ambarish.ghosh@imerit.net,Delivery,Baruipur,Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0229,Sukanta,,Das,sukanta.das@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0257,Satpal,,Ghosh,satpal.ghosh@imerit.net,Delivery,Saltlake,Senior Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0684,Ankush,,Chandra,ankush.chandra@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0681,Ranabir,,Das,ranabir.das@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0687,Subir,,Das,subir.das@imerit.net,Delivery,Saltlake,Senior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0690,Sayanee,,Hazra,sayanee.hazra@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0672,Prasenjit,,Meta,prasenjit.meta@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0275,Ranjit,,Giri,ranjit.giri@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0294,Saswati,,Samaddar,saswati.samaddar@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0420,Mukhtar,,Habib,mukhtar.habib@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0812,Debabrata,,Ghosh,debabrata.ghosh@imerit.net,Delivery,Saltlake,Assistant Manager - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0725,Sunny,,Sardar,sunny.sardar@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0744,Sunashir,,Banerjee,sunashir.banerjee@imerit.net,Delivery,Metiabruz,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0745,Rajib,,Mondal,rajib.mondal@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0720,Priya,,Shaw,priya.shaw@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0809,Anup,,Dey,anup.dey@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0161,Barnali,,Paik,barnalip@imerit.net,Delivery,Baruipur,Assistant Manager - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0813,Pranay,,Kaviraj,pranay.kaviraj@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0826,Tukun,,Sarkar,tukun.sarkar@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0827,Purna,,Chowdhury,purna.chowdhury@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0829,Tapas,Kr.,Hait,tapas.hait@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0068,Hemant,Kr.,Shukla,hemant@imerit.net,Delivery,Ranchi,Manager - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0858,Arup,Kumar,Mondal,arup.mondal@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0842,Chandana,,Banik,chandana.banik@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0843,Chandrani,,Banerjee,chandrani.banerjee@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0213,Rajyaswar,,Gayen,rajyaswar.gayen@imerit.net,Delivery,Baruipur,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0158,Rajat,,Baidya,rajat@imerit.net,Delivery,Baruipur,Assistant Manager - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0255,Vivek,Kumar,Gupta,vivek@imerit.net,Delivery,Ranchi,Assistant Manager - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0607,Suman,,Naskar,suman.naskar@imerit.net,Delivery,Baruipur,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0616,Madhumita,,Pollay,modhumita.pollay@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0602,Pabitra,Kumar,Gayan,pabitra.gayen@imerit.net,Delivery,Baruipur,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0638,Subhankar,,Dhara,subhankar.dhara@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0645,Dipak,,Halder,dipak.halder@imerit.net,Delivery,Baruipur,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0639,Prasenjit,,Adhikari,prasenjit.adhikari@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0708,Sachchidananda,,Halder,sachchidananda.halder@imerit.net,Delivery,Bhubaneshwar,Assistant Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0581,Prosenjit,,Halder,prosenjit.halder@imerit.net,Delivery,Baruipur,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0585,Kaushis,,Halder,kaushis.halder@imerit.net,Delivery,Baruipur,Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0587,Kaushik,,Mondal,kaushik.mondal@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0765,Bapon,,Sardar,bapon.sardar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0850,Rajesh,,Panja,rajesh@imerit.net,Delivery,Baruipur,Assistant Manager - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0071,Rajdeep,,Dutta,rajdeep@imerit.net,Delivery,India HQ,Assistant General Manager - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0186,Arfana,,Khatoon,arfana.khatoon@imerit.net,Delivery,Metiabruz,Senior Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0187,Fatma,,Khatoon,fatma.khatoon@imerit.net,Delivery,Metiabruz,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0171,Naghma,,Qadri,naghma.qadri@imerit.net,Delivery,Metiabruz,Senior Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0189,Nasreen,,Bano,nasreen.bano@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0195,Samina,,Khatoon,samina.khatoon@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0262,Jasmin,,Bano,jasmin.bano@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0263,Nikhat,,Bano,nikhat.bano@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0269,Farha,,Naaz,farha.naaz@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0273,Rukhsana,Khatoon,2,rukhsana.khatoon2@imerit.net,Delivery,Metiabruz,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0311,Razia,,Parveen,razia.parveen@imerit.net,Delivery,Metiabruz,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0313,Rozy,,Bano,rozy.bano@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0318,Farheen,,Ara,farheen.ara@imerit.net,Delivery,Metiabruz,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0325,Shaheen,,Parveen,shaheen.parveen2@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0469,Yasmin,,Parveen,yasmin.perveen@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0472,Farzana,,Ansar,farzana.ansar@imerit.net,Delivery,Metiabruz,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0329,Kainat,,Firdous,kainat.firdous@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0569,Shayesta,,Aslam,shayesta.aslam@imerit.net,Delivery,Metiabruz,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0556,Nargis,,Bano,nargis.bano@imerit.net,Delivery,Metiabruz,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0473,Saba,,Parween,saba.parween@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0491,Shaik,,Rahnuma,shaik.rahnuma@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0493,Ishrat,,Jahan,ishrat.jahan@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0489,Arsha,,Khatoon,arsha.khatoon@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0818,Farzana,,Khatoon,farzana.khatoon@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1001,Pawan,Kumar,Tiwary,pawan@imerit.net,Delivery,Baruipur,Assistant Manager - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0247,Dilip,,Mahto,dilip.mahto@imerit.net,Delivery,Ranchi,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0335,Raju,,Munda,raju.kumar@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0339,Gyan,,Prakash,gyan.prakash@imerit.net,Delivery,Ranchi,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0523,Rameshwar,Kumar,Mahto,rameshwar.mahto@imerit.net,Delivery,Ranchi,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0697,Nargish,,Kumari,nargish.kumari@imerit.net,Delivery,Ranchi,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0703,Nikhat,,Ara,nikhat.ara@imerit.net,Delivery,Ranchi,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0510,Shashi,Sheela,Dhan,sashisheela.dhan@imerit.net,Delivery,Ranchi,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0532,Aziz,,Ansari,aziz.ansari@imerit.net,Delivery,Ranchi,Senior Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0529,Anita,,Kachhap,anita.kachhap@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0696,Lalita,,Kumari,lalita.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0784,Shashi,,Bhutkumar,shashi.bhutkumar@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0792,Kaoshalya,,Kumari,kaoshalya.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0799,Lakshmi,,Kumari,lakshmi.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0804,Deoki,,Kumari,deoki.kumari@imerit.net,Delivery,Ranchi,ITES Executive,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0807,Renuka,Rani,Kachchap,reena.kumari3@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0805,Reena,Kumari,Oraon[ I0805],reena.kumari2@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0795,Rekha,,Kumari,rekha.kumari2@imerit.net,Delivery,Ranchi,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0802,Shweta,,Devi,shweta.devi@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0073,Sanghamitra,,Chanda,sanghamitra@imerit.net,Delivery,Saltlake,Manager - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0868,Sayani,,Nag,sayani.nag@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0872,Suman,,Patra,suman.patra@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0875,Debnath,,Santra,debnath.santra@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0877,Goutam,Kumar,Toppo,goutam.toppo@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0878,Md salim,Salim,Ansari,salim.ansari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0882,Sulendra,Nath,Karmali,sulendra.karmali@imerit.net,Delivery,Ranchi,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0889,Tapas,,Mandal,tapas.mandal@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0892,Fahmida,,Bano,fahmida.bano@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0893,Shahzadi,,Khatoon,shahzadi.khatoon@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0895,Shabnam,,Khatoon,shabnam.khatoon2@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0898,Afreen,,Islam,afreen.islam@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0904,Soumik,,Banerjee,soumik.banerjee@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0908,Afsari,,Begum,afsari.begum@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0912,Rounaque,,Parveen,rounaque.parveen2@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0915,Nigar,,Jahan,nigar.jahan@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0917,Palash,,Biswas,palash.biswas@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0919,Sita,,Kumari,sita.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0920,Tarannum,,Saba,tarannum.saba@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0922,Nishi,Kumari,Yadav,nishi.yadav@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0923,Renu,Kumari,Yadav,ranu.yadav@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0924,Rima,,Kumari,rima.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0927,Barti,,Kumari,barti.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0928,Manisha,,Kumari,manisha.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0929,Noorhasan,,Ansari,noorhasan.ansari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0930,Junaid,,Akhtar,junaid.akhtar@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0932,Raj,Kumar,Ganjhu,raj.ganjhu@imerit.net,Delivery,Ranchi,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0934,Dinesh,,Munda,dinesh.munda@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0935,Aftab,,Alam,aftab.alam2@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0936,Shivdayal,,Mahto,shivdayal.mahto@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0938,Sultan,,Ansari,sultan.ansari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0939,Rajdeo,,Kumar,rajdeo.kumar@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0940,Deepak,Kumar,Munda,deepak.munda@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0941,Rohit,Kumar,Mahto,rohit.mahto@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0948,Rejaul,Islam,Mondal,rejaul.mondal@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0950,Sourav,,Ghosh,sourav.ghosh@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0952,Karna,,Mondal,karna.mondal@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0953,Gouranga,,Middya,gouranga.middya@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0961,Dilkash,,Naaz,dilkash.naaz@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0962,Farhat,,Jahan,farhat.jahan@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0963,Ishrat,,Ali,ishrat.ali@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0964,Kaniz,,Fatma,kaniz.fatma@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0966,Nusrat,,Ara,nusrat.ara@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0968,Shagufa,,Shazia,shagufa.shazia@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0969,Sultana,,Parveen,sultana.parveen@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0972,Chitra,,Mondal,chitra.mondal@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0973,Rinku,,Biswas,rinku.biswas@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0974,Baishakhi,,Makal,baishakhi.makal@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0978,Dipika,,Bag,dipika.bag@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0985,Rani,Sudha,Kumari,rani.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0986,Anjlina,,Kachhap,anjlina.kachhap@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0987,Ranju,,Devi,ranju.devi@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0988,Usha,,Devi,usha.devi@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0989,Gulzar,,Ansari,gulzar.ansari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0990,Sadab,,Akhtar,sadab.akhtar@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0991,Sajid,,Ansari(A),sajid.a@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0993,Sajid,,Ansari(B),sajid.ansari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0994,Dilip,,Mahto,dilip.m@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0998,Shivlal,,Bediya,shivlal.bediya@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0999,Anil,Kumar,Thakur,anil.thakur@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1004,Shatanik,,Chatterjee,shatanik.chatterjee@imerit.net,Delivery,Saltlake,Sr. ITES Executive,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1006,Neha,,hadi,neha.hadi@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1007,Mumtaz,,begum,mumtaz.begum@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1010,Sultana,,khatoon,sultana.khatoon@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1016,Rujaruddin,,Laskar,rujaruddin.laskar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1021,Sunitra,,Behera,sunitra.behera@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1024,Sudeepta,,Samantaray,sudeepta.samantaray@imerit.net,Delivery,Bhubaneshwar,Assistant Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1027,Krushnarani,,Nayak,krushnarani.nayak@imerit.net,Delivery,Bhubaneshwar,Assistant Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1028,Sukla,,Das,sukla.das@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1030,Koushik,,Haldar,koushik.haldar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1034,Manorama,Mamta,Kumari,manorama.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1035,Pooja,,Kumari,pooja.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1036,Komal,,Singh,komal.singh@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0077,Arnab,,Chowdhury,arnab@imerit.net,Delivery,Saltlake,Manager - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1045,Bijayalaxmi,,Swain,bijayalaxmi.swain@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1046,Sakuntala,,Mangaraj,sakuntala.mangaraj@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1047,Suryamani,,Routaray,suryamani.routaray@imerit.net,Delivery,Bhubaneshwar,Assistant Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0080,Vijitha,Arnab,Chowdhury,vijitha@imerit.net,Delivery,Saltlake,Manager - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1050,Koushik,,Sardar,koushik.sardar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1051,Gour,Pada,Mondal,gour.mondal@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1052,Sunayana,,Biswas,sunayana.biswas@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1056,Jyoti,,Bando,jyoti.bando@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1057,Sushma,,Kumari,sushma.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1058,Niki,,Toppo,nikki.toppo@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1062,Sabarmati,,Kumari,sabarmati.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1070,Amresh,,Kumar,amresh.kumar@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1078,Sayeeda,,Khatoon,sayeeda.khatoon@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1080,Nazia,,Khatoon,nazia.khatoon@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1081,Nusrat,,Ansari,nusrat.ansari@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1086,Sanjoy,,Mondal,sanjoy.mondal@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1095,Sohail,,Ahmed,sohail.ahmed@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1096,Rahul,,Roy,rahul.roy@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1102,Ranjan,,Debnath,ranjan.debnath@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1103,Sajal,,Sharma,sajal.sharma@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1105,Aashiq,Ikbal,Molla,aashiq.molla@imerit.net,Delivery,Baruipur,Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1106,Siddhartha,,Mandal,siddhartha.mandal@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1109,Nikhat,,Parveen,nikhat.parveen@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1112,Ritu,,Kundu,ritu.kundu@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1113,Urmila,,Barui,urmila.barui@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1124,Preeti,,Kumari,preeti.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1126,Usha,,Kumari,usha.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1127,Priya,,Kumari,priya.k@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1128,Preety,,Kumari,preety.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1130,Sangeeta,,Kumari,sangeeta.k@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1134,Vijay,,Karmali,vijay.karmali@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1136,Albab,,Hussain,albab.hussain@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1145,Kalyan,Kumar,Shaw,kalyan.shaw@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1148,Sheikh,,Wasim,sheikh.wasim@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1149,Bikash,Kumar,Shaw,bikash.shaw@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1159,Asharam,,Oraon,asharam.oraon1@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1160,Seema,Kumari,Singh,seema.singh@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1165,Haimanti,,Shyamal,haimanti.shyamal@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1166,Tumpa,,Khutia,tumpa.khutia@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1174,Arup,,Pramanik,arup.pramanik@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1175,Tapamoy,,Mandal,tapamoy.mandal@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1176,Sujata,,Halder,sujata.halder@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1177,Bidhan,,Bar,bidhan.bar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1180,Manosi,,Naskar,manosi.naskar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1181,Sradhargha,,Das,sradhargha.das@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1184,Banita,,Malik,banita.malik@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1185,Kusan,Kumar,Malik,kusan.malik@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1186,Jitendra,,Behera,jitendra.behera@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1194,Vikash,,Singh,vikash.s@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1193,Amitab,,Kumar,amitab.kumar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1201,Ranajit,,Nath,ranajit.nath@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1207,Sushma,,Lakra,sushma.lakra@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1208,Renu,,Kumari,renu.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1203,Rozy,,Khatoon,rozy.khatoon@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1204,Zartaj,,Nazneen,zartaj.nazneen@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1211,Hajra,,Khatoon,hajra.khatoon@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1213,Rabi,,Barman,rabi.barman@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1216,Suparna,,Karmakar,suparna.k@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1218,Monalisha,,Santra,monalisha.s@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1221,Yusuf,,Ansari,yusuf.ansari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1227,Kazi,,Hafizul,kazi.hafizul@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1228,Rakesh,,Naskar,rakesh.naskar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1231,Madhurima,,Chakraborty,madhurima.c@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1232,Munmun,,Haldar,munmun.haldar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1233,Subhra,,Malik,subhra.malik@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1234,Madhurita,,Chakraborty,madhurita.c@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1238,Sumitra,,Nayak,sumitra.nayak@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1240,Md azahar,Azahar,Uddin,azahar.uddin@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1243,Priyanka,,Sardar,priyanka.sardar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1245,Siddhartha,,Haldar,siddhartha.haldar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1247,Suman,Kumar,Mondal,suman.mondal@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1249,Tanmay,,Baidya,tanmay.baidya@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1250,Anjani,,Kumari,anjani.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1251,Jayanti,,Kumari,jayanti.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1255,Bindeshwar,,Pahan,bindeshwar.p@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1256,Manisha,,Khandelwal,manisha.k@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1258,Bachhu,,Mandal,bachhu.mandal@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1259,Santu,,Naskar,santu.naskar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1260,Moumita,,Naskar,moumita.naskar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1261,Susmita,,Naskar,susmita.naskar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1262,Sandhya,,Naskar,sandhya.naskar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1264,Shubhadip,,Maiti,shubhadip.maiti@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1265,Prabir,,Kanrar,prabir.kanrar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0085,Mainak,,Ghosh,mainak@imerit.net,Delivery,Bhubaneshwar,Manager - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1270,Anita,,Parida,anita.parida@imerit.net,Delivery,Bhubaneshwar,Assistant Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1272,Tapan,Kumar,Mohapatra,tapan.mohapatra@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1275,Rasmita,,Das,rasmita.das@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1276,Uttam,Prasad,Barik,uttam.barik@imerit.net,Delivery,Bhubaneshwar,Assistant Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+II022,Glenda,Lysama,Hernandez,glenda@imerit.net,Delivery,Nola,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1280,Manab,,Sen,manab.sen@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1284,Mehtab,Alam,2,mehtab.alam@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1285,Avik,,Naskar,avik.naskar@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1288,Subhankar,,Halder,subhankar.halder@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1289,Debabrata,,Paul,debabrata.paul@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+II023,Carlos,,Bernal,carlos.b@imerit.net,Delivery,Nola,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1292,Shivani,,Yadav,shivani.yadav@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1300,Abhishek,,Battoo,abhishek.battoo@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1296,Tapas,,Sardar,tapas.sardar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1297,Debasmita,,Das,debasmita.das@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1298,Labani,,Naskar,labani.naskar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1299,Arpita,,Ghosh,arpita.ghosh@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1303,Chitta,Chandan,Parida,chitta.parida@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1304,Janmejay,,Nayak,janmejay.nayak@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1305,Jharana,,Mohanty,jharana.mohanty@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1306,Kalpana,,Malik,kalpana.malik@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1308,Souravmaya,,Parida,souravmaya.parida@imerit.net,Delivery,Bhubaneshwar,Assistant Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1309,Sanghamitra,,Sethy,sanghamitra.sethy@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1310,Sumitra,,Mohanty,sumitra.mohanty@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1311,Purnima,,Sahu,purnima.sahu@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1312,Priyambada,,Nayak,priyambada.nayak@imerit.net,Delivery,Bhubaneshwar,Assistant Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1313,Suchismita,,Pati,suchismita.pati@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1314,Asmita,,Dash,asmita.dash@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1315,Arundhati,,Dash,arundhati.dash@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1316,Minati,Kumari,Ghadai,minati.ghadai@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1317,Sujata,,Behera,sujata.behera@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1318,Debasmita,,Pradhan,debasmita.pradhan@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1319,Prativa,,Behera,prativa.behera@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1323,Pratima,,Malik,pratima.malik@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1324,Anupama,,Das,anupama.das@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1325,Manorama,,Dash,manorama.dash@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1326,Anusaya,,Malik,anusaya.malik@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1327,Pinki,,Das,pinki.das@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1328,Sumitra,,Biswal,sumitra.biswal@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1330,Anita,,Swain,anita.swain@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1331,Santilata,,Das,santilata.das@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1333,Kalpana,,Parida,kalpana.parida@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1336,Itishree,,Nayak,itishree.nayak@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1337,Sasmita,,Behera,sasmita.behera@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1339,Sudhir,Ranjan,Sethy,sudhira.sethy@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1342,Partha,,Saha,partha.saha@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1343,Arzu,,Nandi,arzu.nandi@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1344,Shashi,Kant,Sinha,shashi.sinha@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1341,Suraj,,Laskar,suraj.laskar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+II026,Oscar,Eduardo,Cabezas,oscar@imerit.net,Delivery,Nola,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1352,Bipul,,Chakraborty,bipul.chakraborty@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1359,Kamal,Kumar,Sha,kamal.sha@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1362,Soumyen,,Kundu,soumyen.kundu@imerit.net,Delivery,Ranchi,Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1366,Ranjit,,Gope,ranjit.gope@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+II028,Iliana,,Johnston,iliana@imerit.net,Delivery,Nola,Contributor,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1371,Rajkumar,,Jatua,rajkumar.jatua@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1377,Sujit,,Gayen,sujit.gayen@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1381,Indranil,,Kar,indranil.kar@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1387,Injamamul,Ul,Sk,injamal.sk@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1390,Pravas,,Sardar,pravas.sardar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1394,Souvik,,Mitra,souvik.mitra@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1398,Sandipan,,Halder,sandipan.halder@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1399,Saikat,,Karmakar,saikat.karmakar@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1405,Abhishek,,Dutta,abhishek.dutta@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1408,Darpana,,Banerjee,darpana.banerjee@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1412,Anubhab,,Kar,anubhab.kar@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1417,Rajen,,Singh,rajen.singh@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1419,Debjani,,Sarkar,debjani.sarkar@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1411,Suvojyoti,,Das,suvojyoti.das@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1421,Sudip,,Nandy,sudip.nandy@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1426,Ajmira,,Khatun,ajmira.khatun@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1424,Md,,Imtiaz,md.imtiaz@imerit.net,Delivery,Saltlake,Sr. ITES Executive,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1425,Subhra,,Mukherjee,subhra.mukherjee@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1432,Rajiv,,Acharya,rajiv.acharya@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1436,Gulafshan,,Amber,gulafshan.amber@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1441,Shalini,,Pandey,shalini.pandey@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1442,Nandani,,Kumari,nandani.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1446,Shubhendu,,Banerjee,shubhendu.ba@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1448,Abhishek,,Saha,abhishek.saha@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1449,Samir,,Ghosh,samir.ghosh@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1450,Abhijeet,,Mandal,abhijeet.mandal@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1451,Niladri,,Roy,niladri.roy@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1452,Subhajit,,Ghosh,subhajit.ghosh@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1457,Kritika,,Kumari,kritika.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1456,Bheem,Kumar,Mahto,bheem.mahto@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1458,Abhimanyu,,Jena,abhimanyu.jena@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1459,Ahalya,,Nandi,ahalya.nandi@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1460,Anita,,Rout,anita.rout@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1461,Bandita,,Swain,bandita.swain@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1464,Chintamani,,Rout,chintamani.rout@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1466,Kandhei,,Behera,kandhei.behera@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1467,Laxmipriya,,Malik,laxmipriya.malik@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1470,Rajesh,Kumar,Nayak,rajesh.nayak@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1473,Sambhunath,,Chand,sambhunath.chand@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1475,Sujata,,Sahoo,sujata.sahoo@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1476,Trilochan,,Sahoo,trilochan.sahoo@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1477,Santosh,,Kumar,santosh.kumar@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0089,Guntoo,Bhavani,Rao,bhavani@imerit.net,Delivery,Saltlake,Manager - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1479,Sana,,Parveen,sana.parveen@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1480,Roquaiya,,Begum,roquaiya.begum@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1478,Kumar,Sankarshan,Das,sankarshan.das@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1483,Santu,,Ghosh,santu.ghosh@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1487,Asikur,Rahaman,Sanfui,asikur.sanfui@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1490,Alpana,,Dhal,alpana.dhal@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1491,Aruna,Kumar,Behera,aruna.behera@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1493,Budhadev,,Guin,budhadev.guin@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1495,Heerarani,,Samal,heerarani.s@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1496,Jyotsnarani,,Malik,jyotsnarani.m@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1498,Latika,,Jena,latika.jena@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1499,Lilima,,Swain,lilima.swain@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1501,Monalin,,Nayak,monalin.n@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1502,Nirmala,,Mahunta,nirmala.m@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1503,Padmanav,,Rout,padmanav.rout@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1504,Prakash,Kumar,Guin,prakash.guin@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1506,Rajasree,,Das,rajasree.das@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1507,Sabana,,Khatun,sabana.khatun@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1508,Santosh,,Sharma,santosh.sharma@imerit.net,Delivery,Bhubaneshwar,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1509,Siprarani,,Tarai,siprarani.tarai@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1511,Sonali,Sonalisa,Nayak,sonali.nayak@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1512,Sonam,Sonali,Biswal,sonam.biswal@imerit.net,Delivery,Bhubaneshwar,Assistant Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1514,Suchitra,,Barick,suchitra.b@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1515,Sudhansubala,,Sethy,sudhansubala.s@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1517,Suprava,,Barik,suprava.barik@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1519,Truptilata,,Panda,truptilata.p@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1520,Uma,,Bhoi,uma.bhoi@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1522,Akankshya,,Panda,akankshya.p@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1523,Bharati,,Behera,bharati.behera@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1525,Diptimayee,,Nayak,diptimayee.n@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1526,Etishree,,Nayak,etishree.n@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1528,Jharana,,Nayak,jharana.n@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1532,Rashmita,,Nayak,rashmita.nayak@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1533,Sanjukta,,Sahoo,sanjukta.sahoo@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1535,Swapnarani,,Biswal,swapnarani.b@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1536,Swarnaprava,,Aich,swarnaprava.a@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1540,Sakil,Ahmed,Fakir,sakil.fakir@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1547,Subho,,Naskar,subho.naskar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1548,Sibnath,,Halder,sibnath.halder@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1549,Mizanoor,Rahaman,Sardar,mizanoor.sardar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1550,Priya,,Naskar,priya.naskar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1551,Subhra,,Mondal,subhra.mondal@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1552,Shrabani,,Bachhar,shrabani.bachhar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1553,Sovan,,Mondal,sovan.mondal@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1559,Firdous,,Khatoon,firdous.khatoon@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1562,Ashok,,Mahto,ashok.mahto@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1566,Amar,,Dey,amar.dey@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1567,Anupama,,Sahoo,anupama.sahoo@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1569,Kalpana,,Das,kalpana.das@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1572,Pravasini,,Kar,pravasini.kar@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1574,Purnima,,Biswal,purnima.biswal@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1575,Rojalin,,Nayak,rojalini.nayak@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1583,Priya,Bala,Kumari,priyabala.kumari@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1584,Arti,,Devi,aarti.k@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1585,Indarjeet,,Gop,indarjeet.gop@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1588,Pradipta,,Mandal,pradipta.mandal@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1591,Arindam,,Mistry,arindam.mistry@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1592,Samya,,Mondal,samya.mondal@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1593,Habiba,,Khatun,habiba.khatun@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1595,Saurav,,Das,saurav.das@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1597,Barnali,,Banerjee,barnali.banerjee@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1601,Abhishek,,Sahu,abhishek.sahu@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1602,Arup,Kumar,Mondal,arup.m@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1604,Nisha,,Mithaulia,nisha.mithaulia@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1608,Rajeev,,Roy,rajeev.roy@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1609,Soumya,Kanti,Banerjee,soumya.banerjee@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1611,Swagatika,,Sahoo,swagatika.sahoo@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1613,Gule,Firdous,Quadri,gulefirdous.quadri@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1614,Jayashree,,Behera,jayashree.behera@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1615,Jhili,,Singh,jhili.singh@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1616,Kavita,,Behera,kavita.behera@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1617,Monalisha,,Parida,monalisha.parida@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1619,Rasmita,,Jena,rasmita.jena@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1620,Rekha,,Nayak,rekha.nayak@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1621,Rupali,,Raj,rupali.raj@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1622,Sangita,,Beura,sangita.beura@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1623,Srabani,,Bardhan,srabani.bardhan@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1625,Bulbul,,Srichanara,bulbul.srichanara@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1627,Sasmita,,Behera,sasmita.b@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1628,Chittaranjan,,Behera,chittaranjan.behera@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1629,Smrutirekha,,Biswal,smurtirekha.biswal@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1630,Somya,Ranjan,Sahu,soumyaranjan.sahu@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1631,Jyoti,Ranjan,Behera,jyotiranjan.behera@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1633,Subhadra,,Biswal,subhadra.biswal@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1634,Sarmistha,,Dalai,sarmistha.dalai@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1636,Amarendra,,Dhal,amarendra.dhal@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1637,Parbati,,Patra,parbati.patra@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0092,Anirban,,Sarker,anirban.sarker@imerit.net,Delivery,Baruipur,Manager - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1640,Soumyajit,,Banerjee,soumyajit.banerjee@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1641,Sudip,,Adhikari,sudip.adhikari@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I0093,Adrish,Kumar,Mukherjee,adrish@imerit.net,Delivery,Saltlake,Manager - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1645,Sunny,,Chandra,sunny.chandra@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1646,Koushik,,Seth,koushik.seth@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1647,Koushik,,Adhikary,koushik.adhikary@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1649,Anirban,,Basu,anirban.b@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1650,Biplab,,Das,biplab.das@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1651,Sujit,,Halder,sujit.halder@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1653,Abhishek,,Chowdhury,abhishek.chowdhury@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1655,Debparna,,Gupta,debparna.gupta@imerit.net,Delivery,Saltlake,Sr. ITES Executive,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1656,Amarjeet,,Kumar,amarjeet.kumar@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1657,Sonali,,Rai,sonali.rai@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1658,Lakshmi,,Kumari,lakshmi.ku@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1662,Judit,,Minj,judit.minj@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1665,Gaurav,,Sharma,gaurav.sharma@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1666,Ritesh,,Pokhrel,ritesh.pokhrel@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1669,Sandip,,Sarkar,sandip.sarkar@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1671,Rahul,,Paul,rahul.paul@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1672,Rahul,,Kumar,rahul.shaw@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1675,Dipak,Kumar,Behera,dipak.behera@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1676,Diptirekha,,Rout,diptirekha.rout@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1677,Kadambini,,Pradhan,kadambini.pradhan@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1678,Pinkina,,Behera,pinkina.behera@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1679,Pushpita,,Karan,pushpita.karan@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1681,Sangeeta,,Sahoo,sangeeta.sahoo@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1682,Santi,Smrutirekha,Prusty,santi.prusty@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1683,Silaprava,Priyadarasini,Sahoo,silaprava.sahoo@imerit.net,Delivery,Bhubaneshwar,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1684,Abhijit,,Dhar,abhijit.dhar@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1686,Pranab,Krishna,Chakraborty,pranab.chakraborty@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1687,Anupam,,Banerjee,anupam.banerjee@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1690,Abhishek,,Halder,abhishek.halder@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1691,Arindam,,Das,arindam.das@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1693,Rubi,,Roy,rubi.roy@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1694,Azijul,Rahaman,Molla,azijul.molla@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1695,Ravi,,Kumar,ravi.kumar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1697,Moutusi,,Mitra,moutusi.mitra@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1698,Siddhartha,,Manna,siddhartha.manna@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1699,Ujjwal,,Naskar,ujjwal.naskar@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1703,Sylvia,Deepika,Gomes,sylvia.gomes@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1704,Dibyendu,,Chakraborty,dibyendu.ch@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1705,Rahul,,Chanda,rahul.chanda@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1707,Susanto,,Paul,susanto.paul@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1708,S.,,Sunny,s.sunny@imerit.net,Delivery,Saltlake,Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1709,Notan,,Mondal,notan.m@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1710,Sandip,,Senapati,sandip.s@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1721,Piyush,,Pandey,piyush.pandey@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1723,Poonam,,Kumari,poonam.k@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1724,Sarswati,,Singh,saraswati.s@imerit.net,Delivery,Ranchi,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1711,Rubina,,Khatoon,rubina.khatoon@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1712,Irfana,,Khatoon,irfana.khatoon@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1715,Shabana,,Parveen,shabana.parveen@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1716,Shaheda,,Parveen,shaheda.parveen@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1718,Kainat,,Khatoon,kainat.khatoon@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1719,Rukhsar,,Khatoon,rukhsar.khatoon@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1714,Naghma,,Parveen,naghma.parveen@imerit.net,Delivery,Metiabruz,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+II014,Gabriele,,Trabucco,gabriele@imerit.net,Delivery,Nola,Lead - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1725,Sanjay,,Paramanik,sanjay.p@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1726,Madhulina,,Chakraborty,madhulina.ch@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1727,Samprikta,,Majumdar,samprikta.m@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1732,Mustakim,,Mistry,mustakim.m@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1738,Sourav,,Naskar,sourav.n@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1740,Arpita,,Mondal,arpita.m@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1743,Ashique,,Mondal,ashique.m@imerit.net,Delivery,Baruipur,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+I1750,Sayan,,Chatterjee,sayan.chatterjee@imerit.net,Delivery,Saltlake,Junior Specialist - Delivery,EC-vieAeIf69m,FC-1cXrDFg1s9,JC-5fb3c9e979ecd4000157f01f
+
+
