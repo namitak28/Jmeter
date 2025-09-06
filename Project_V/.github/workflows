@@ -30,7 +30,7 @@ jobs:
 
     - name: Run JMeter Test Plan
       run: |
-        $JMETER_HOME/bin/jmeter -n -t test-plan.jmx -l results.jtl -e -o report
+        $JMETER_HOME/bin/jmeter -n -t ProjectV_Tasking.jmx -l results.jtl -e -o report
 
     - name: Upload Test Artifacts
       uses: actions/upload-artifact@v3
